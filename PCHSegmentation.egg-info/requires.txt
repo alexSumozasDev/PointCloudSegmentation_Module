@@ -1,0 +1,13 @@
+numpy
+scipy
+scikit-learn
+
+[3d]
+open3d
+
+[all]
+open3d
+matplotlib
+
+[test]
+matplotlib
